@@ -1,0 +1,54 @@
+/* Estilo geral da página */
+body {
+    background-color: #f0f8ff; /* Cor suave */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    color: #333;
+}
+
+/* Título */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+/* Parágrafo */
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+/* Lista */
+ul {
+    line-height: 2;
+    padding-left: 20px;
+}
+
+/* Imagem dos hobbies */
+img {
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+/* Tabela */
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Link */
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FF4500;
+}

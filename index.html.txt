@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Geovana Barbosa Pereira - Página Pessoal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Geovana Barbosa Pereira</h1>
+
+    <p>
+        Meu nome é Geovana Barbosa Pereira, tenho 20 anos e moro em Ouro preto. Estou estudando Engenharia de Software pela Uninter e sou apaixonada por tecnologia, viagens e amo cozinhar. Gosto de aprender coisas novas, especialmente sobre programação, Automação instrumentação.
+    </p>
+
+    <ul>
+        <li>Cozinhar</li>
+        <li>viajar</li>
+        <li>Aprender coisas novas</li>
+    </ul>
+
+    <img src="https://thewandertraveler.com/wp-content/uploads/2019/04/viagem.jpg" alt="viagem" width="200">
+
+    <h2>Países que gostaria de visitar</h2>
+    <table>
+        <tr>
+            <th>País</th>
+            <th>Imagem</th>
+        </tr>
+        <tr>
+           <table border="1">
+    <tr>
+        <td>Japão</td>
+        <td>
+            <img src="https://s3.sa-east-1.amazonaws.com/optima-intercambio/artigos/1755462023090464f64452dcd7e.jpg" width="150" alt="Japão">
+        </td>
+    </tr>
+    <tr>
+        <td>Canadá</td>
+        <td>
+            <img src="https://images.unsplash.com/photo-1497373637916-e47a55e22d0a?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhbmFkJUMzJUExfGVufDB8fDB8fHww" width="150" alt="Canadá">
+        </td>
+    </tr>
+    <tr>
+        <td>Noruega</td>
+        <td>
+            <img src="https://lh6.googleusercontent.com/Bq2JhcduYMM3h-YYRqeUsnA-jvj8aPvRpn1sUNKR8IKV3oXQOUYIJaPN_xQZMpVKSzOFXKM8z4hegiSxSbHqR1kDVHu0qeje2KnosLlCkhsz3Bitt7XVDyOkzoTFlp9lnT2zZFTRsnTV63nza6jEDC8" width="150" alt="Noruega">
+        </td>
+    </tr>
+</table>
+
+
+    <p>
+        Acesse meu site favorito: 
+        <a href="https://shopee.com.br/?uls_trackid=53pv09un01rr&utm_campaign=id_VNLp4kZbUi&utm_content=gxbrshopeeshopeesd----&utm_medium=affiliates&utm_source=an_18114130006&utm_term=dpz6bjzpsudq"_blank">shoppe</a>
+    </p>
+
+    <!-- Botão com JavaScript -->
+    <button onclick="mostrarMensagem()">Clique para ver uma mensagem!</button>
+    <p id="mensagem"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>
